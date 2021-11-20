@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://www.bouchaibmassioui.com/"><img src="https://img.shields.io/badge/-Twitter-050F2C?style=flat-square&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/bouchaib-massioui/"><img src="https://img.shields.io/badge/-LinkedIn-050F2C?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="https://dev.to/bmassioui"><img src="hhttps://img.shields.io/badge/dev.to-050F2C?style=flat-square&logo=dev.to&logoColor=white"/></a>
+    <a href="https://dev.to/bmassioui"><img src="https://img.shields.io/badge/dev.to-050F2C?style=flat-square&logo=dev.to&logoColor=white"/></a>
     <a href="https://medium.com/@bouchaib.massioui"><img src="https://img.shields.io/badge/Medium-050F2C?style=flat-square&logo=medium&logoColor=white"/></a>
     <a href="https://www.bouchaibmassioui.com/"><img src="https://img.shields.io/badge/-Blog-050F2C?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
