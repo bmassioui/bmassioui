@@ -10,7 +10,7 @@
     <a href="https://www.bouchaibmassioui.com/"><img src="https://img.shields.io/badge/-Blog-050F2C?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
 
-I'm a **.NET Software Engineer** with *+4* years professional experience at a various worldwide IT Companies. Currently, I specialise in building high quality *Enterprise Software* - Saas & Pass for diverce purposes using *.NET*, *Angular*, *Vue.js*, *Blazor*, *Azure Cloud* and *Azure DevOps* for managing the application development lifecycle. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
+I'm a **.NET Software Engineer** with *+4* years professional experience at various worldwide IT Companies. Currently, I specialize in building high-quality *Enterprise Software* - Saas & Pass for diverse purposes using *.NET*, *Angular*, *Vue.js*, *Blazor*, *Azure Cloud*, and *Azure DevOps* for managing the application development lifecycle. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
 
 ## GitHub Stats
 
