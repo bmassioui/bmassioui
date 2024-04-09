@@ -10,8 +10,8 @@
   <a href="https://medium.com/@bouchaib.massioui"><img src="https://img.shields.io/badge/Medium-020202?style=flat-square&logo=medium&logoColor=white"/></a>
 </p>
 
-Passionate .NET | Azure, Angular Software Developer with a Proven Track Record of Crafting Innovative Solutions.      
-With over 5 years of hands-on experience in software development, I specialize in leveraging .NET, Azure, and Angular to create efficient and user-friendly applications. My focus is on results, and I'm dedicated to delivering solutions that exceed expectations.
+Passionate **.NET | Azure | Angular Software Developer** with a Proven Track Record of Crafting Innovative Solutions.      
+With **over 5 years** of hands-on experience in software development, I specialize in leveraging .NET, Azure, and Angular to create efficient and user-friendly applications. My focus is on results, and I'm dedicated to delivering solutions that exceed expectations.
 
 I thrive on refining my core skills in software development, software design, software architecture, and problem-solving. By staying abreast of the latest industry trends and technologies, I ensure that my solutions are always cutting-edge and effective.
 
