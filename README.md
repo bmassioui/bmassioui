@@ -28,7 +28,7 @@ I thrive on refining my core skills in software development, software design, so
   <a href="https://github.com/bmassioui">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bmassioui&show_icons=true&theme=swift&count_private=true" alt="bmassioui's GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmassioui&theme=swift&layout=compact" alt="bmassioui GitHub Top Languages" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonTaylorDev&theme=shades-of-purple&layout=compact" alt="JasonTaylorDev GitHub Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmassioui&theme=shades-of-purple&layout=compact" alt="JasonTaylorDev GitHub Top Languages" />
   </a>
 
 ## Projects
